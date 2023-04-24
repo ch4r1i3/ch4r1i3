@@ -33,3 +33,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="MDB" width="40" />
           
+### :fire: My Stats :
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
