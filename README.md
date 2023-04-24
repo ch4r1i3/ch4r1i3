@@ -34,5 +34,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="MDB" width="40" />
           
 ### :fire: My Stats :
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ch4r1i3&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ch4r1i3&count_private=true&theme=tokyonight&showicons=true)]()
